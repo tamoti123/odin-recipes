@@ -5,3 +5,6 @@ These include
 2. Lists i.e ordered and unordered
 3. Images and links
 4. Creating and navigating different pages using absolute and relative paths
+
+
+We also get to practice creating repositories
